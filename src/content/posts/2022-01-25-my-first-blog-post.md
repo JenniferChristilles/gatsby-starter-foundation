@@ -7,3 +7,5 @@ description: My first blog post
 featuredImage: /assets/jacalyn-beales-cksdmypdgcs-unsplash.jpg
 ---
 **Hello World**
+
+My name is Jennifer Christilles and I'm an aspiring web developer! I hope to share with you some exciting articles about my findings. : )
