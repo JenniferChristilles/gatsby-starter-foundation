@@ -28,11 +28,11 @@ This [video](https://www.youtube.com/watch?v=ilrPpSQJb3U&ab_channel=UnaKravets) 
 
 ##### Original:
 
-![Code output](/assets/orig-output.png "output")
+![Code output](/assets/orig-output.png "output before")
 
 #### If you guessed pink, you would be correct!
 
-![Image says Cascade, then below has pink letters](/assets/output.png "out put pink")
+![Image says Cascade, then below has pink letters](/assets/output.png "output after")
 
 While the class element selector is higher specificity within selectors, a new layer’s specificity will trump it. This can be helpful to fully control the organization of your coding. Now let’s say I do want the .purple class element to be purple, there are 2 ways I could go about this. First I could move the layers around to change the layer specificity, as shown in example 1. Another way I could fix this is by setting the order of all the layers. This basically will set the layer specificity with out having move around all the `@layer` 's in your code. You would want to put your layer of least ‘priority’ first, and then all the way up to most ‘priority’ for last layer. This is shown in Example 2.
 
