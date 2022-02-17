@@ -18,11 +18,11 @@ This [video](https://www.youtube.com/watch?v=ilrPpSQJb3U&ab_channel=UnaKravets) 
 
 ### take a look at this CSS and tell me which color the text is going to be.
 
-##### HTML:
+##### CSS:
 
 ![CSS](/assets/code-1.png "CSS")
 
-##### CSS:
+##### HTML:
 
 ![HTML](/assets/html1.png "HTML")
 
